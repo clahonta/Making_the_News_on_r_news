@@ -1,4 +1,4 @@
-# Making_the_News_on_r_news
+# Making the News on r/news
 
 This folder contains a prediction tool intending to identify news headlines predisposed to higher levels of user engagement on Reddit's r/news board. The data was scraped from r/news using the python library [PRAW](https://praw.readthedocs.io/en/stable/), which also provides the survey from which the data were collected. 
 
